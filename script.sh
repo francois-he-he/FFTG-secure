@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Simple shell-based filter. It is meant to be invoked as follows:
+# Simple postfix content filter. It is meant to be invoked as follows:
 #       /path/to/script -f sender recipients...
  
 # Localize these. The -G option does nothing before Postfix 2.3.

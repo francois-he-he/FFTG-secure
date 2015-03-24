@@ -1,6 +1,7 @@
 # FFTG-secure_mail
 
 
-GPG Encrypt/decrypt/sign mail
+GPG Encrypt/Decrypt/Sign mail
+Postfix Content Filter
 
 ASRALL - IUT Charlemangne - Nancy

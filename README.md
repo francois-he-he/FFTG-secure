@@ -4,4 +4,4 @@
 GPG Encrypt/Decrypt/Sign mail
 Postfix Content Filter
 
-ASRALL - IUT Charlemangne - Nancy
+ASRALL - IUT Charlemagne - Nancy
